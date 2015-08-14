@@ -1,3 +1,6 @@
-THIS IS AN EXAMPLE PROJECT
+hello-world
+===========
 
-DOES NOT SERVE ANY PURPOSE
+Hi humans
+
+blablablablablablablabl
